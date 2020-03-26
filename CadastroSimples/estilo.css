@@ -1,0 +1,14 @@
+body{
+	background: #F5F5F5;
+	font-family: 'Baloo 2', cursive;
+	font-weight: bold;
+	color: black;
+	margin: 15px;
+
+}body h1{
+	font-size: 30px;
+}
+body img{
+	width: 80px;
+	height: 75px;
+}
